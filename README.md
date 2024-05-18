@@ -16,6 +16,6 @@ Actualmente soy estudiante de Ingeniería en computación en ESPOL. Siempre me h
 * [TicTacToe Inteligente](https://github.com/danlevil/ED-G9-Proyecto)
 * [App de Contactos](https://github.com/Johrespi/ProyectoContactos)
 ## Intereses
-* AI
+### AI
   asd
 * Web development
