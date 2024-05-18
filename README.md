@@ -1,6 +1,9 @@
-# Mi sitio personal
+# Sobre mí
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
+
+Actualmente soy estudiante de Ingeniería en computación en ESPOL. Siempre me ha llamado la atención las computadoras y la programación, me gusta aprender y disfruto del proceso.
+
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -14,4 +17,5 @@ proyectos y mis intereses.
 * [App de Contactos](https://github.com/Johrespi/ProyectoContactos)
 ## Intereses
 * AI
+  asd
 * Web development
