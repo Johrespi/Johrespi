@@ -11,6 +11,6 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil - Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* [TicTacToe Inteligente](https://github.com/danlevil/ED-G9-Proyecto)
 ## Intereses
 * [Lista de tus intereses]
