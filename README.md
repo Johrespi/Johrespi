@@ -5,7 +5,7 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-## Informacion personal
+## Información personal
 * Nombre: Johann Ramírez
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil - Ecuador
