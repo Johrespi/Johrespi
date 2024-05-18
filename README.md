@@ -9,8 +9,9 @@ proyectos y mis intereses.
 * Nombre: Johann Ramírez
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil - Ecuador
-* Sitio web: [Tu sitio web]
 ## Proyectos
 * [TicTacToe Inteligente](https://github.com/danlevil/ED-G9-Proyecto)
+* [App de Contactos](https://github.com/Johrespi/ProyectoContactos)
 ## Intereses
-* [Lista de tus intereses]
+* AI
+* Web development
