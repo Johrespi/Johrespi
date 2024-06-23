@@ -17,10 +17,12 @@ Actualmente soy estudiante de Ingeniería en computación en ESPOL. Siempre me h
 * [Landing Page](https://github.com/Johrespi/landing)
 * [TicTacToe Inteligente](https://github.com/danlevil/ED-G9-Proyecto)
 ## Intereses
-* **AI**  
+* **AI**
+  
   Me atrae crear sistemas inteligentes, es un campo muy diverso y con mucho potencial.
 
-* **Web development**  
+* **Web development**
+  
   Me interesa crear aplicaciones web interactivas, agradables y funcionales.
 
 ## Languages and Tools
