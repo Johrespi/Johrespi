@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <a href="https://x.com/Johrespi"><img src="https://img.shields.io/static/v1?message= &logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge "height="25" alt="X logo"  /></a>
-  <a href="https://www.instagram.com/johannramz/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/johann-ramírez-espinoza-9b359a222/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://x.com/Johrespi" target="_blank"><img src="https://img.shields.io/static/v1?message= &logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge "height="25" alt="X logo"  /></a>
+  <a href="https://www.instagram.com/johannramz/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/johann-ramírez-espinoza-9b359a222/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 </div>
 
 ###
@@ -26,6 +26,6 @@
 
 ###
 
-<h4 align="center">If you want to get to know me you can check<br><br><a href="https://johrespi.github.io/johannramz/">My Portfolio</a></h4>
+<h4 align="center">If you want to get to know me you can check<br><br><a href="https://johrespi.github.io/johannramz/" target="_blank">My Portfolio</a></h4>
 
 ###
