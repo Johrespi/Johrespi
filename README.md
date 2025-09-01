@@ -5,15 +5,13 @@
 ###
 
 <div align="center">
-
   <p align="center">  
-    <a href="https://x.com/Johrespi"><img alt="Johann | X" src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png&color=ffffff"/></a>
+    <a href="https://x.com/Johrespi" target="_blank" rel="noopener noreferrer"><img alt="Johann | X" src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png&color=ffffff"/></a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/johannramz/"><img alt="Johann | Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="https://www.instagram.com/johannramz/" target="_blank" rel="noopener noreferrer"><img alt="Johann | Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/johann-ramírez-espinoza-9b359a222/"><img alt="Johann | LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/johann-ramírez-espinoza-9b359a222/" target="_blank" rel="noopener noreferrer"><img alt="Johann | LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   </p>
-
 </div>
 
 ###
@@ -32,6 +30,4 @@
 
 ###
 
-<h4 align="center">If you want to get to know me you can check<br><br><a href="https://foliogram-tau.vercel.app" target="_blank">My Portfolio</a></h4>
-
-###
+<h4 align="center">If you want to get to know me you can check<br><br><a href="https://foliogram-tau.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a></h4>
