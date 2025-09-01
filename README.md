@@ -14,20 +14,12 @@
   </p>
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Johrespi.Johrespi&"  />
 </div>
 
-###
-
 <h1 align="center">Hello👋</h1>
 
-###
+<h2 align="center">If you want to get to know me you can check<br><br><a href="https://foliogram-tau.vercel.app" target="_blank">My Portfolio</a></h2>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<h4 align="center">If you want to get to know me you can check<br><br><a href="https://foliogram-tau.vercel.app" target="_blank">My Portfolio</a></h4>
